@@ -58,7 +58,13 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Don't copy me :) Sam K"
+        android:text="Designed and owned by Samuel Kinaitis"
+        android:layout_gravity="center"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Copyright © 2022. All rights are reserved"
         android:layout_gravity="center"
         />
 </LinearLayout>
